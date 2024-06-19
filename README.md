@@ -17,7 +17,7 @@ Before you begin, make sure you have the following:
 2. Open the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard).
 3. Click on **Create App**. ![alt text](images/1.png)
 5. Enter any name and description for your app.
-6. In **Redirect URLs**, enter: `https://spotify-refresh-token-generator.netlify.app`.
+6. In **Redirect URLs**, enter: `https://spotify-refresh-token-generator.netlify.app`
 7. Check **Web API** and **Web Playback SDK**.
 8. It should look like this: ![alt text](images/2.png)
 10. Click **Save**. Don't close the page yet.
