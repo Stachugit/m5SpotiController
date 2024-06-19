@@ -34,7 +34,7 @@ Before you begin, make sure you have the following:
 1. Upload the firmware to the m5stickcplus2.
 2. Connect to the SpotiSetup hotspot.
 3. Open a browser and go to [http://192.168.4.1](http://192.168.4.1).
-4. Enter the appropriate values into the fields on the page. ![alt text](images/4.png)
+4. Enter the appropriate values into the fields on the page. ![alt text](images/4res.png)
 5. Click **Submit**.
 
 ## Usage Instructions
