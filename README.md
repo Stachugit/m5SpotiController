@@ -20,10 +20,10 @@ Before you begin, make sure you have the following:
 6. In **Redirect URLs**, enter: `https://spotify-refresh-token-generator.netlify.app`
 7. Check **Web API** and **Web Playback SDK**.
 8. It should look like this: ![alt text](images/2.png)
-10. Click **Save**. Don't close the page yet.
+10. Click **Save**. Don't close the page yet, you will need Client ID and Client secret ![alt text](images/6.png)
 11. Visit the [Spotify Refresh Token Generator](https://spotify-refresh-token-generator.netlify.app/).
 12. Click **Get started** and then **Skip this step**.
-13. Enter the **Client ID** and **Client Secret** from your newly created Spotify app.
+13. Enter the **Client ID** and **Client Secret** from your newly created Spotify app. 
 14. Select **user-read-currently-playing**, **user-read-playback-position**, and **user-modify-playback-state**. ![alt text](images/3.png)
 15. Click **Get Spotify Access Code**.
 16. Accept by clicking **Agree**.
